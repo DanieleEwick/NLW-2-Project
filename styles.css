@@ -28,7 +28,7 @@ header img {
         width: 120px;
         border-radius: 50%;
 
-        margin: auto;
+        margin: 32px auto;
         background-image: linear-gradient(90deg, yellow 0%,rgb(211, 84, 53)20.25%, rgb(140, 230, 128) 50.52%, rgb(170, 60, 128) 65.80%, rgb(77, 164, 185) 100%);
 
         display:flex;
